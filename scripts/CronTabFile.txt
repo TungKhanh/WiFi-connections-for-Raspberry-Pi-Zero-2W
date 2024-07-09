@@ -1,0 +1,1 @@
+@reboot sleep 15 && /home/pi/wifi-connect-headless-rpi/scripts/run.sh
